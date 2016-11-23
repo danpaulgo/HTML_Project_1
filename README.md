@@ -3,7 +3,7 @@ Exceptional Realty Group Website
 
 Description:
 
-This is an example site for Front=end Web Development
+This is an example site for Front-end Web Development
 
 ---
 
